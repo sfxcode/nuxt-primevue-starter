@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v2.3.1
+
+[compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.3.0...v2.3.1)
+
+### 🏡 Chore
+
+- **release:** Update release script to use patch versioning ([7b54251](https://github.com/sfxcode/nuxt3-primevue-starter/commit/7b54251))
+
+### ✅ Tests
+
+- Add unit tests for BaseButton and ExternalLink components ([e866d0d](https://github.com/sfxcode/nuxt3-primevue-starter/commit/e866d0d))
+
+### ❤️ Contributors
+
+- Sfxcode ([@sfxcode](https://github.com/sfxcode))
+
 ## v2.3.0
 
 [compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.2.15...v2.3.0)

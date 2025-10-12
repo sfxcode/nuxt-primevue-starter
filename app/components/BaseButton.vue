@@ -20,7 +20,7 @@ defineProps({
 <template>
   <button
     :disabled="disabled"
-    class="text-red-500 btn"
+    class="btn text-red-500"
     :class="{
       [`btn-color-${color}`]: color,
       [`btn-size-${size}`]: size,

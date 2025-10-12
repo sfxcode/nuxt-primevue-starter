@@ -1,6 +1,20 @@
 # Changelog
 
 
+## v2.3.2
+
+[compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.3.1...v2.3.2)
+
+### 🏡 Chore
+
+- **dependencies:** Update dependencies to latest versions ([44f4f67](https://github.com/sfxcode/nuxt3-primevue-starter/commit/44f4f67))
+- Update PrimeVue and Nuxt Content versions in index.vue ([4953aea](https://github.com/sfxcode/nuxt3-primevue-starter/commit/4953aea))
+- **dependencies:** Update packageManager version to pnpm@10.18.2 ([0b12871](https://github.com/sfxcode/nuxt3-primevue-starter/commit/0b12871))
+
+### ❤️ Contributors
+
+- Sfxcode ([@sfxcode](https://github.com/sfxcode))
+
 ## v2.3.1
 
 [compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.3.0...v2.3.1)

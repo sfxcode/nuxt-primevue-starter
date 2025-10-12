@@ -1,4 +1,4 @@
-# Nuxt 3 + PrimeVue 4 Starter
+# Nuxt 4 + PrimeVue 4 Starter
 
 Build your VUE.js App with Nuxt 4. First Class PrimeVUE support. Validation by Formkit.
 Module by [FormKit-PrimeVue-Nuxt](https://github.com/sfxcode/formkit-primevue-nuxt).

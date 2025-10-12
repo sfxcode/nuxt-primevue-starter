@@ -1,6 +1,6 @@
 # Nuxt 3 + PrimeVue 4 Starter
 
-Build your VUE.js App with Nuxt3 (Nuxt 4 ready). First Class PrimeVUE support. Validation by Formkit.
+Build your VUE.js App with Nuxt 4. First Class PrimeVUE support. Validation by Formkit.
 Module by [FormKit-PrimeVue-Nuxt](https://github.com/sfxcode/formkit-primevue-nuxt).
 Based on PrimeVue Styled Theme with Aura Preset.
 
@@ -13,7 +13,7 @@ THX to [antfu / Vitesse Nuxt3](https://github.com/antfu/vitesse-nuxt3) for start
 ## Features
 
 - [Nuxt 3](https://v3.nuxtjs.org) - SSR, ESR, File-based routing, components auto importing, modules, etc.
-- [PrimeVue](https://primevue.org/) 4.2.x with Aura Theme
+- [PrimeVue](https://primevue.org/) 4.4.x with Aura Theme
 - [Formkit-PrimeVue](https://formkit-primevue.netlify.app/) PrimeVue Formkit Integration
 - [Vite](https://vitejs.dev/) - Instant HMR
 - [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.

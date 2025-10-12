@@ -13,7 +13,7 @@ import AdvertiseBox from '@/components/AdvertiseBox.vue'
       Starter for Vue.js Development with Nuxt 3.
     </h2>
     <div class="gap-2 grid grid-cols-2 lg:grid-cols-3">
-      <AdvertiseBox header="PrimeVue 4.3.x" icon="prime-check-circle" color="green-600">
+      <AdvertiseBox header="PrimeVue 4.4.x" icon="prime-check-circle" color="green-600">
         Excellent <ExternalLink href="https://github.com/sfxcode/formkit-primevue" text="Component Library" /> for VUE
       </AdvertiseBox>
       <AdvertiseBox header="PrimeVue Theme" icon="prime-check-circle" color="green-600">
@@ -34,7 +34,7 @@ import AdvertiseBox from '@/components/AdvertiseBox.vue'
       <AdvertiseBox header="Nuxt 4.0.x" icon="prime-check-circle" color="green-400">
         <ExternalLink href="https://nuxt.com/" text="Nuxt" /> with Pages, Layouts, ...
       </AdvertiseBox>
-      <AdvertiseBox header="Nuxt Content 3.6.x" icon="prime-check-circle" color="green-400">
+      <AdvertiseBox header="Nuxt Content 3.7.x" icon="prime-check-circle" color="green-400">
         <ExternalLink href="https://content.nuxt.com/" text="Content" />: Markdown, YML, CSV or JSON and MDC Syntax
       </AdvertiseBox>
       <AdvertiseBox header="Nuxt Modules" icon="prime-check-circle" color="green-600">

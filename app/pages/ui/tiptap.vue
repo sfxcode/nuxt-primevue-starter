@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import TipTap from '~/components/tiptap/TipTap.vue'
+import TipTap from '~/components/TipTap.vue'
 
 const startText = '<p>I’m running <strong>Tiptap</strong> with <strong>Vue.js</strong> and <strong>Nuxt</strong>. 🎉</p><hr><blockquote><p>Use TipTap ...</p></blockquote>\n'
 const editorValue = ref(startText)

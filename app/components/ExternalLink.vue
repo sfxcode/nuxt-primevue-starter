@@ -2,11 +2,11 @@
 defineProps({
   text: {
     type: String,
-    default: '',
+    default: 'Nuxt',
   },
   href: {
     type: String,
-    default: '#',
+    default: 'https://nuxt.com',
   },
 })
 </script>

@@ -1,6 +1,40 @@
 # Changelog
 
 
+## v2.3.3
+
+[compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.3.2...v2.3.3)
+
+### 🚀 Enhancements
+
+- Add ToDoExampleHelp and preview components ([6eace18](https://github.com/sfxcode/nuxt3-primevue-starter/commit/6eace18))
+- Enhance components with default slot content and update props ([92706a3](https://github.com/sfxcode/nuxt3-primevue-starter/commit/92706a3))
+- Update preview component styles and improve package scripts ([b6fc2c2](https://github.com/sfxcode/nuxt3-primevue-starter/commit/b6fc2c2))
+- Update preview component styles and improve package scripts ([d03e255](https://github.com/sfxcode/nuxt3-primevue-starter/commit/d03e255))
+
+### 📖 Documentation
+
+- Update README to reflect Nuxt 4 and PrimeVue 4.4.x support ([9972573](https://github.com/sfxcode/nuxt3-primevue-starter/commit/9972573))
+- Update README to reflect Nuxt 4 support ([3b66809](https://github.com/sfxcode/nuxt3-primevue-starter/commit/3b66809))
+
+### 🏡 Chore
+
+- **dependencies:** Update dependencies to latest versions ([ef2ee0d](https://github.com/sfxcode/nuxt3-primevue-starter/commit/ef2ee0d))
+- **dependencies:** Update packageManager to pnpm@10.18.3 ([f59247c](https://github.com/sfxcode/nuxt3-primevue-starter/commit/f59247c))
+- **dependencies:** Add @compodium/nuxt and update configuration ([3b6fcdf](https://github.com/sfxcode/nuxt3-primevue-starter/commit/3b6fcdf))
+
+### ✅ Tests
+
+- Update ExternalLink tests to reflect PrimeVue integration ([62be6b4](https://github.com/sfxcode/nuxt3-primevue-starter/commit/62be6b4))
+
+### 🎨 Styles
+
+- Reorder class attributes for consistency in 404.vue and BaseButton.vue ([e70cd85](https://github.com/sfxcode/nuxt3-primevue-starter/commit/e70cd85))
+
+### ❤️ Contributors
+
+- Sfxcode ([@sfxcode](https://github.com/sfxcode))
+
 ## v2.3.2
 
 [compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.3.1...v2.3.2)

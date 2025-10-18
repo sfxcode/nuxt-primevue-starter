@@ -1,2 +1,2 @@
 shamefullyHoist: true
-strictPeerDependencies: true
+strictPeerDependencies: false

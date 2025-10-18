@@ -21,6 +21,7 @@ THX to [antfu / Vitesse Nuxt3](https://github.com/antfu/vitesse-nuxt3) for start
 - [State Management via Pinia](https://pinia.esm.dev)
 - [TipTap](https://tiptap.dev) - Headless Editor
 - [Vitest](https://vitest.dev/) - Blazing Fast Unit Test Framework ([Getting started](https://vitest.dev/guide))
+- [Compodium](https://github.com/romhml/compodium) - A plug and play component playground for Vue and Nuxt. ([Getting started](https://compodium.dev/getting-started/installation))
 
 ## Nuxt Modules (included in formkit-primevue-nuxt)
 

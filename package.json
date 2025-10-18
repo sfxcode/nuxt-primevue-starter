@@ -4,12 +4,11 @@
   "version": "2.3.2",
   "license": "MIT",
   "scripts": {
-    "build": "nuxi build",
-    "dev": "nuxi dev",
-    "info": "nuxi info",
-    "generate": "nuxi generate",
-    "preview": "nuxi preview",
-    "module": "nuxi init -t module my-module",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
     "start": "node .output/server/index.mjs",
     "lint": "eslint ./app",
     "lint:fix": "eslint --fix ./app",
@@ -17,7 +16,6 @@
     "test:unit": "vitest --run --reporter verbose",
     "test:ci": "vitest --run --reporter verbose",
     "test:coverage": "vitest run --coverage",
-    "postinstall": "nuxt prepare",
     "release": "npm run lint && npm run build && changelogen --patch --release && git push --follow-tags"
   },
   "devDependencies": {

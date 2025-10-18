@@ -16,6 +16,7 @@ export default defineNuxtConfig({
     '@sfxcode/formkit-primevue-nuxt',
     '@unocss/nuxt',
     '@pinia/colada-nuxt',
+    '@compodium/nuxt',
   ],
 
   ssr: true,
@@ -45,7 +46,13 @@ export default defineNuxtConfig({
   },
 
   compatibilityDate: '2024-07-04',
+
   debug: false,
+
+  compodium: {
+    /* List of glob patterns to exclude components. */
+    ignore: ['**/AppSidebar.vue'],
+  },
 
   eslint: {
     config: {

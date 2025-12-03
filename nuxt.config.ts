@@ -19,7 +19,7 @@ export default defineNuxtConfig({
     '@compodium/nuxt',
   ],
 
-  ssr: true,
+  ssr: false,
   devtools: { enabled: true },
   runtimeConfig: {
     public: {

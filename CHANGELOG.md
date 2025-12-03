@@ -1,6 +1,24 @@
 # Changelog
 
 
+## v2.3.4
+
+[compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.3.3...v2.3.4)
+
+### 🩹 Fixes
+
+- Change strictPeerDependencies to false in pnpm-workspace.yaml ([9cae3e2](https://github.com/sfxcode/nuxt3-primevue-starter/commit/9cae3e2))
+- Disable server-side rendering in nuxt.config.ts ([8d1c697](https://github.com/sfxcode/nuxt3-primevue-starter/commit/8d1c697))
+
+### 🏡 Chore
+
+- Update dependencies in package.json ([dd0b98c](https://github.com/sfxcode/nuxt3-primevue-starter/commit/dd0b98c))
+- Update package manager version to pnpm@10.24.0 ([4a3cfff](https://github.com/sfxcode/nuxt3-primevue-starter/commit/4a3cfff))
+
+### ❤️ Contributors
+
+- Sfxcode ([@sfxcode](https://github.com/sfxcode))
+
 ## v2.3.3
 
 [compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.3.2...v2.3.3)

@@ -1,6 +1,23 @@
 # Changelog
 
 
+## v2.3.5
+
+[compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.3.4...v2.3.5)
+
+### 🏡 Chore
+
+- Update devDependencies to latest versions ([47bc113](https://github.com/sfxcode/nuxt3-primevue-starter/commit/47bc113))
+- Update @nuxt/content and @pinia/colada dependencies to latest versions ([2b8a12e](https://github.com/sfxcode/nuxt3-primevue-starter/commit/2b8a12e))
+- Update @babel/parser to version 7.28.5 in pnpm-lock.yaml ([70a8e42](https://github.com/sfxcode/nuxt3-primevue-starter/commit/70a8e42))
+- Update package manager version to pnpm@10.26.2 ([22f71f4](https://github.com/sfxcode/nuxt3-primevue-starter/commit/22f71f4))
+- Remove pinia-colada dependency and update @babel/parser version ([dc1f4e4](https://github.com/sfxcode/nuxt3-primevue-starter/commit/dc1f4e4))
+- Update version numbers for PrimeVue, FormKit, Nuxt, Nuxt Content, Pinia, and TipTap in index.vue ([bdbd4c6](https://github.com/sfxcode/nuxt3-primevue-starter/commit/bdbd4c6))
+
+### ❤️ Contributors
+
+- Sfxcode ([@sfxcode](https://github.com/sfxcode))
+
 ## v2.3.4
 
 [compare changes](https://github.com/sfxcode/nuxt3-primevue-starter/compare/v2.3.3...v2.3.4)

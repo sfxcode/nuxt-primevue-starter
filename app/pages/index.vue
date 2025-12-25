@@ -13,14 +13,14 @@ import AdvertiseBox from '@/components/AdvertiseBox.vue'
       Starter for Vue.js Development with Nuxt 3.
     </h2>
     <div class="gap-2 grid grid-cols-2 lg:grid-cols-3">
-      <AdvertiseBox header="PrimeVue 4.4.x" color="green-600">
+      <AdvertiseBox header="PrimeVue 4.5.x" color="green-600">
         Excellent <ExternalLink href="https://github.com/sfxcode/formkit-primevue" text="Component Library" /> for VUE
       </AdvertiseBox>
       <AdvertiseBox header="PrimeVue Theme" color="green-600">
         <ExternalLink href="https://primevue.org/theming/styled" text="Styled Mode" /> with preset: Aura
       </AdvertiseBox>
-      <AdvertiseBox header="FormKit" color="purple-500">
-        <ExternalLink href="https://formkit.com" text="Formkit" /> 1.6.x support by <ExternalLink href="https://formkit-primevue.netlify.app/" text="PrimeVue-FormKit" />
+      <AdvertiseBox header="FormKit 1.7.x" color="purple-500">
+        <ExternalLink href="https://formkit.com" text="Formkit" /> FormKit support by <ExternalLink href="https://formkit-primevue.netlify.app/" text="PrimeVue-FormKit" />
       </AdvertiseBox>
       <AdvertiseBox header="UnoCSS" color="green-600">
         <ExternalLink href="https://unocss.dev/" text="UnoCSS" /> for rapid styling
@@ -31,10 +31,10 @@ import AdvertiseBox from '@/components/AdvertiseBox.vue'
       <AdvertiseBox header="Typescript 5" color="blue-400">
         Typesafe by default
       </AdvertiseBox>
-      <AdvertiseBox header="Nuxt 4.0.x" color="green-400">
+      <AdvertiseBox header="Nuxt 4.2.x" color="green-400">
         <ExternalLink href="https://nuxt.com/" text="Nuxt" /> with Pages, Layouts, ...
       </AdvertiseBox>
-      <AdvertiseBox header="Nuxt Content 3.7.x" color="green-400">
+      <AdvertiseBox header="Nuxt Content 3.10.x" color="green-400">
         <ExternalLink href="https://content.nuxt.com/" text="Content" />: Markdown, YML, CSV or JSON and MDC Syntax
       </AdvertiseBox>
       <AdvertiseBox header="Nuxt Modules" color="green-600">
@@ -43,10 +43,10 @@ import AdvertiseBox from '@/components/AdvertiseBox.vue'
       <AdvertiseBox header="VueUse" color="green-600">
         <ExternalLink href="https://vueuse.org/" text="VueUse" /> included
       </AdvertiseBox>
-      <AdvertiseBox header="Pinia 2.x" color="blue-400">
-        <ExternalLink href="https://pinia.vuejs.org/" text="Pinia (Colada)" />: Vue Store Implementation
+      <AdvertiseBox header="Pinia 3.0.x" color="blue-400">
+        <ExternalLink href="https://pinia.vuejs.org/" text="Pinia (+ Colada)" />: Vue Store Implementation
       </AdvertiseBox>
-      <AdvertiseBox header="TipTap 3.x" color="green-600">
+      <AdvertiseBox header="TipTap 3.14.x" color="green-600">
         <ExternalLink href="https://tiptap.dev/" text="TipTap" /> Editor
       </AdvertiseBox>
       <AdvertiseBox header="Vue Sidebar" color="green-600">

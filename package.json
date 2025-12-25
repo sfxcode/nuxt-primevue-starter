@@ -54,7 +54,6 @@
     "jsdom": "^27.3.0",
     "nuxt": "^4.2.2",
     "pinia": "^3.0.4",
-    "pinia-colada": "^0.0.1",
     "sass": "^1.97.1",
     "typescript": "^5.9.3",
     "unstorage": "^1.17.3",

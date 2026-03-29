@@ -47,6 +47,19 @@ export default defineNuxtConfig({
 
   compatibilityDate: '2024-07-04',
 
+  vite: {
+    optimizeDeps: {
+      include: [
+        '@formkit/core',
+        '@vue/devtools-core',
+        '@vue/devtools-kit',
+        'vue-sidebar-menu',
+        '@formkit/addons',
+        '@formkit/i18n',
+      ],
+    },
+  },
+
   debug: false,
 
   compodium: {
